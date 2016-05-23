@@ -1,7 +1,7 @@
 alpine-pkg-bats
 ===============
 
-+ **nodejs**: 0.4.0-r0 (`armhf` && `x86_64`)
++ **bats**: 0.4.0-r1 (`armhf` && `x86_64`)
 
 [More alpine-related stuff here!](https://github.com/ghostbar/alpine-devel)
 
