@@ -1,12 +1,12 @@
 # Maintainer: Jose-Luis Rivas <ghostbar@riseup.net>
 pkgname=bats
 pkgver=0.4.0
-pkgrel=0
+pkgrel=1
 pkgdesc="Bash Automated Testing System"
 url="https://github.com/sstephenson/bats"
 arch="noarch"
 license="MIT"
-depends="bash"
+depends="bash udev"
 makedepends="$depends_dev bash"
 install=""
 subpackages="$pkgname-doc"
